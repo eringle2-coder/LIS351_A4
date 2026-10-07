@@ -75,7 +75,7 @@ a:hover { text-decoration: underline; }
 
 /* ===== Hero ===== */
 .hero {
-  background-image: linear-gradient(#031d3325, #031d3336), url("Orchids.png");
+  background-image: linear-gradient(#031d3369, #031d33a4), url("images/Orchids.png");
   min-height: 360px;
   max-width:100%;
   height: auto;
@@ -105,7 +105,7 @@ a:hover { text-decoration: underline; }
      Add vertical padding so it doesn't feel cramped.
   */
   text-align: center;
-
+  padding-top: 26px;
 }
 
 .hero h1 {

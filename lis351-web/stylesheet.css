@@ -37,7 +37,8 @@ a:hover { text-decoration: underline; }
   display: flex;
   align-items: center;
   text-align: center;
-
+  flex-direction: row;
+  justify-content: space-between;
   /* TODO A (Flexbox):
      Make the brand appear on the left and the navigation on the right.
      Requirements:

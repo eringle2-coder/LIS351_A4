@@ -233,6 +233,7 @@ a:hover { text-decoration: underline; }
 }
 
 .media {
+  display: flex;
   background: #F0F8FF;
   border: 1px solid #87ACCC;
   height: 260px;

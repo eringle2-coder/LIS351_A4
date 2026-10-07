@@ -34,6 +34,7 @@ a:hover { text-decoration: underline; }
 }
 
 .header-inner {
+  display: flex;
   align-items: center;
   text-align: center;
 
@@ -49,6 +50,7 @@ a:hover { text-decoration: underline; }
 
 
 .brand {
+  display: flex;
   font-size: 28px;
   font-weight: 700;
   padding-left: 20px;
